@@ -1,7 +1,16 @@
 /* Project CSS 
 ============================================================
 ============================================================*/
+body {
+	background-color: #000;	
+}
 
+header h1{
+	color: #fff;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3em;	
+}
 
 /* HEADER ============================== */
 
