@@ -1,0 +1,28 @@
+/* Component Stylesheet 
+============================================================
+============================================================*/
+
+section .comp3 {
+color: #fff;
+border-bottom: solid #FFF 2px;
+	
+}
+
+section .comp3 h2{
+margin: 50px;
+text-decoration:underline
+}
+
+section .comp3 p {
+font-size: 1.4em;	
+}
+
+img{
+	margin-top: 25px;
+	
+}
+
+code { 
+    font-family: monospace;
+	background-color: #CCC;
+	color: #000;
