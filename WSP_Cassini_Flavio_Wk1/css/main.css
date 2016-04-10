@@ -35,7 +35,7 @@ section {
 .image { 
    position: relative; 
    width: 60%; /* for IE 6 */
-   margin: 0
+   margin: 0;
    
 }section .image p  {
 	position: absolute;
