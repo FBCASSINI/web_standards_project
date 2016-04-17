@@ -3,27 +3,16 @@
 ============================================================*/
 
 
-section .comp2 {
-color: #fff;
-border-bottom: solid #FFF 2px;
-	
+.image2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;	
 }
 
-section .comp2 h2{
-margin: 50px;
-text-decoration:underline
+.image3 {
+	position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 1;	
 }
-
-section .comp2 p {
-font-size: 1.4em;	
-}
-
-img{
-	margin-top: 25px;
-	
-}
-
-code { 
-    font-family: monospace;
-	background-color: #CCC;
-	color: #000;

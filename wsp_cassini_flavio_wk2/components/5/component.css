@@ -1,0 +1,52 @@
+/* Component Stylesheet 
+============================================================
+============================================================*/
+
+footer  {
+	background-color: #0C9;
+	width: 100%;
+	height: 80px;
+	border: solid #F00 2px;	
+	
+}
+
+ul{
+	margin: 20px 0 0 0%;
+}
+ul li {
+	
+}
+footer li{	
+
+   list-style-type: none;
+   width: 5%;
+   height: 45px;
+   float:left;
+   text-indent: -9999px;
+   
+}
+
+#facebook { 
+
+	background: url(facebook-Icon.png) no-repeat center;
+	
+}
+
+#twitter {
+	background: url(twitter-Icon.png) no-repeat center;	
+}
+
+#google {
+	background: url(Google-plus-Icon.png) no-repeat center;		
+}
+
+#instagram {
+	background: url(Instagram-Icon.png) no-repeat center;		
+}
+
+p {
+	margin: 5px 500px;
+	display: inline-block;
+	color: #fff;
+	font-weight:bold;
+}
