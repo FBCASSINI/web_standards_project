@@ -1,0 +1,58 @@
+/* Component Stylesheet 
+============================================================
+============================================================*/
+
+
+img.image1 {
+	position: relative;	
+	width: 100%;
+}
+ul{
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	width: 100%;
+   display: inline;
+}
+
+ul li {
+width: auto;
+  float: left;
+  list-style: none;
+  
+  
+}
+	
+
+#filter, #pure, #relax {
+	margin: 50px;
+	color: #fff;
+	border: 1px solid #fff;
+	font-size: 2.5em;
+	padding: 150px 20px;
+	text-align: center;	
+	
+}
+
+.border {
+border-top: solid 1px #fff;	
+}
+
+#filter{
+	background: url(Hydros_Recycle.png) center top; 
+    background-size: 120px 120px;
+    background-repeat: no-repeat;	
+}
+
+#pure {
+	background: url(water-drop-icon-54117.png) center top; 
+    background-size: 120px 120px;
+    background-repeat: no-repeat;
+}
+
+#relax {
+	background: url(icon-relax.png) center top; 
+    background-size: 120px 120px;
+    background-repeat: no-repeat;
+}
+
