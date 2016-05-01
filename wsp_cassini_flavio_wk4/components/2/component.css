@@ -1,0 +1,18 @@
+/* Component Stylesheet 
+============================================================
+============================================================*/
+
+
+.image2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;	
+}
+
+.image3 {
+	position: absolute;
+    right: 0px;
+    top: 450px;
+    z-index: 1;	
+}
